@@ -4,8 +4,6 @@ import com.learning.java8.Util;
 import com.learning.model.Bookmark;
 import com.learning.model.Note;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Optional;
 
 public class Optional_Map_Flatmap {
